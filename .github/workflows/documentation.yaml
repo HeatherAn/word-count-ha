@@ -1,4 +1,4 @@
-name: Docs
+name: documentation
 on: [push, pull_request, workflow_dispatch]
 jobs:
   docs:
